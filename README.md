@@ -5,7 +5,7 @@ a Javascript framework which lets you create a webpage - with only a few lines o
 <!DOCTYPE html>
 <html>
 <head>
-  <script src = "dominat.us/xcelerate.js"></script>
+  <script src = "https://tytotf08.github.io/xcelerate.js"></script>
 </head>
 <body>
 </body>
