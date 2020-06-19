@@ -1,5 +1,4 @@
 // xCelerate JS Scripting
-
 var randomContent;
 function print(styling, content) {
 	if (typeof styling === "string" && typeof content === "string" && styling !== "" && content !== "") {
