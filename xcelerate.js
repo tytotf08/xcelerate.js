@@ -1,4 +1,5 @@
-// xCelerate JS Scripting
+// xCelerate JS 
+// Please refer to LICENSE to view how you can distribute and branch off of this code
 var randomContent;
 function print(styling, content) {
 	if (typeof styling === "string" && typeof content === "string" && styling !== "" && content !== "") {

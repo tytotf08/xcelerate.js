@@ -11,4 +11,4 @@ a Javascript framework which lets you create a webpage - with only a few lines o
 </body>
 ```
 and of course, some custom HTML if you'd like.
-You should also create two files: main.js and style.css. xCelerate JS looks for these files when the page starts. They can be empty, but are system requirements for xCelerate.
+You should also create two files: main.js and style.css. xCelerate JS looks for these files when the page starts. They can be empty, but are system requirements for xCelerate. xCelerate actually generates

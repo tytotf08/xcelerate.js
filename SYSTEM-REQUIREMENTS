@@ -1,0 +1,7 @@
+--- System Requirements For xCelerate JS---
+
+main.js - your xCelerate Client where you code your xCelerate.js
+style.css - external stylesheet
+
+PLEASE NOTE:
+You can also CDN to xcelerate-min.js where there aren't any system requirements, but this is not as maintained and functional as xCelerate.js main javascript page.

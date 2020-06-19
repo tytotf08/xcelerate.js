@@ -1,0 +1,11 @@
+{
+	"name": "xCelerateJS",
+	"version": "V.0.1.0 BETA",
+	"author": "TytoTF08",
+	"language": "JavaScript",
+	"specifications": {
+		"kind": "open-source",
+		"description": "JS Framework",
+		"license": "MPL-2.0 License",
+	}
+}
